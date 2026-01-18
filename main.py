@@ -22,3 +22,5 @@ minutes = int(distance / speed * 60)
 time_in_hours = minutes // 60
 time_in_minutes = minutes % 60
 print("Det tar " + str(time_in_hours) + " timmar och " + str(time_in_minutes) + " minuter")
+
+# 2
