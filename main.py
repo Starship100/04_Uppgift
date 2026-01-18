@@ -41,7 +41,7 @@ from datetime import date
 print(date.today())
 
 # 3b - Datum 7dgr framåt
-from datetime import datetime, timedelta
-now = datetime.now()
+from datetime import date, timedelta
+now = date.today()
 future_date = now + timedelta(days=7)
 print("Om 7 dagar är datumet " + str(future_date))
