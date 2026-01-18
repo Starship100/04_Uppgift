@@ -24,4 +24,4 @@ time_in_minutes = minutes % 60
 print("Det tar " + str(time_in_hours) + " timmar och " + str(time_in_minutes) + " minuter")
 
 # 2
-print()
+print()g
