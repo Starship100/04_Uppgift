@@ -33,3 +33,5 @@ andra_kortsida = z * z
 hypotenusan = ena_kortsida + andra_kortsida
 hypotenusan = int(math.sqrt(hypotenusan))
 print(hypotenusan)
+
+# 3
